@@ -1,6 +1,17 @@
-# infinity-scroll
+<!--
+ * @Author: chm
+ * @Date: 2020-11-05 23:23:12
+ * @LastEditTime: 2020-11-05 23:25:21
+ * @LastEditors: Please set LastEditors
+ * @Description: 
+ * @FilePath: /infiniteScroll/README.md
+-->
+# infinite-scroll
 
 > 列表无限循环滚动
+
+![](https://raw.githubusercontent.com/16hmchen/pictures/master/img/20201105232430.gif)
+
 
 ## Build Setup
 
